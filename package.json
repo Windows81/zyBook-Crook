@@ -1,0 +1,15 @@
+{
+	"name": "zybook-crook",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Windows81/zybook-crook.git"
+	},
+	"author": "",
+	"bugs": {
+		"url": "https://github.com/Windows81/zybook-crook/issues"
+	},
+	"homepage": "https://github.com/Windows81/zybook-crook#readme"
+}
