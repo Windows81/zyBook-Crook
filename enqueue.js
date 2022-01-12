@@ -5,7 +5,6 @@ const queue = [];
 
 secs.then((resp) => {
 	for (var [ch, sc] of resp) {
-		if (ch == 1 && sc <= 9) continue;
 		https.get(
 			{
 				hostname: "zyserver.zybooks.com",
